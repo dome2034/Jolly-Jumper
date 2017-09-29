@@ -1,0 +1,11 @@
+E:\งาน ป.โท\Algor\Jolly Jumper\Jolly Jumper\bin\Debug\Jolly Jumper.exe.config
+E:\งาน ป.โท\Algor\Jolly Jumper\Jolly Jumper\bin\Debug\Jolly Jumper.exe
+E:\งาน ป.โท\Algor\Jolly Jumper\Jolly Jumper\bin\Debug\Jolly Jumper.pdb
+E:\งาน ป.โท\Algor\Jolly Jumper\Jolly Jumper\bin\Debug\Jolly Jumper.xml
+E:\งาน ป.โท\Algor\Jolly Jumper\Jolly Jumper\obj\Debug\Jolly Jumper.vbprojResolveAssemblyReference.cache
+E:\งาน ป.โท\Algor\Jolly Jumper\Jolly Jumper\obj\Debug\Jolly_Jumper.Resources.resources
+E:\งาน ป.โท\Algor\Jolly Jumper\Jolly Jumper\obj\Debug\Jolly Jumper.vbproj.GenerateResource.Cache
+E:\งาน ป.โท\Algor\Jolly Jumper\Jolly Jumper\obj\Debug\Jolly Jumper.vbproj.CoreCompileInputs.cache
+E:\งาน ป.โท\Algor\Jolly Jumper\Jolly Jumper\obj\Debug\Jolly Jumper.exe
+E:\งาน ป.โท\Algor\Jolly Jumper\Jolly Jumper\obj\Debug\Jolly Jumper.xml
+E:\งาน ป.โท\Algor\Jolly Jumper\Jolly Jumper\obj\Debug\Jolly Jumper.pdb
